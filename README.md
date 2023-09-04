@@ -1,6 +1,11 @@
-# Analyzing Historical Stock/Revenue Data and Building a Dashboard
+# Webscraping and Analysis:
+Aplicação com intuito de fazer webscraping em algumas páginas que possuem informação sobre Revenue/Market cap de uma empresa, a fim de fazer um gráfico da relação de tempo e Valor da empresa. Assim como, utilizando uma biblioteca(yfinance), a fim de analisar os preços da ação durante os anos.
+
+Temas:WebScraping/DataVisualization/ETL
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RafaelAndradeDEV/Projetos_praticos/blob/master/LICENSE)
+
+# Analyzing Historical Stock/Revenue Data and Building a Dashboard
 
 # Sobre o Projeto
 
